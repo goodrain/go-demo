@@ -1,1 +1,1 @@
-web: hello
+web: go-demo
